@@ -6,7 +6,6 @@ Build AI-powered tools that transform how people find jobs and how companies fin
 ## Products
 1. **CV.Ai** — AI resume builder + portfolio platform
 2. **Colors** — AI-powered recruitment marketplace
-3. **Pension Match** — Pension & insurance advisor SaaS (POC)
 
 ## Philosophy
 - AI is a tool, not a replacement for human judgment
@@ -18,7 +17,6 @@ Build AI-powered tools that transform how people find jobs and how companies fin
 ## Current Priorities
 1. Colors: Freelancer role implementation
 2. CV.Ai: Course board + ongoing AI improvements
-3. Pension Match: Reach MVP
 
 ## Long-term
 - Connect CV.Ai and Colors into unified platform

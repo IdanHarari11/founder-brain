@@ -10,7 +10,7 @@ Use this when creating tasks for agents in Paperclip.
 [Clear, specific objective]
 
 ### Context
-- Product: [CV.Ai / Colors / Pension-Match]
+- Product: [CV.Ai / Colors]
 - Read: [links to relevant Obsidian docs]
 - Current state: [brief description]
 
